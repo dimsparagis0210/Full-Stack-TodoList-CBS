@@ -1,0 +1,6 @@
+[submodule "Full-Stack-TodoList-Frontend"]
+	path = Full-Stack-TodoList-Frontend
+	url = https://github.com/dimsparagis0210/Full-Stack-TodoList-Frontend.git
+[submodule "Full-Stack-TodoList-Backend"]
+	path = Full-Stack-TodoList-Backend
+	url = https://github.com/dimsparagis0210/Full-Stack-TodoList-Backend.git
