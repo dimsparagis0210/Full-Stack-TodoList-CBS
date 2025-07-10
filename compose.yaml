@@ -16,7 +16,7 @@ services:
   # Backend Service
   backend:
     build:
-      context: ./backend
+      context: ./Full-Stack-TodoList-Backend
       dockerfile: Dockerfile
     container_name: todo-backend
     ports:
@@ -34,7 +34,7 @@ services:
   # Frontend Service  
   frontend:
     build:
-      context: ./frontend
+      context: ./Full-Stack-TodoList-Frontend
       dockerfile: Dockerfile
     container_name: todo-frontend
     ports:
