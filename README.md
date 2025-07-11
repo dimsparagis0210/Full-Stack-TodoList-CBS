@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository** (if not already done):
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dimsparagis0210/Full-Stack-TodoList-CBS.git
    cd todo-cosmos
    ```
 
