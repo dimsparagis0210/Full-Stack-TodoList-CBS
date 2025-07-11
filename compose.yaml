@@ -31,7 +31,7 @@ services:
       - db
     restart: unless-stopped
 
-  # Frontend Service  
+  # Frontend Service
   frontend:
     build:
       context: ./Full-Stack-TodoList-Frontend
