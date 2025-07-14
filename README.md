@@ -1,4 +1,4 @@
-# 📝 Todo Cosmos
+# 📝 BitTask
 
 A full-stack todo application built with React (Frontend) and Spring Boot (Backend), containerized with Docker Compose.
 
